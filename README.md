@@ -8,7 +8,7 @@
 
 ***
 
-Run: This application was made for educational purposes only❗
+`This application was made for educational purposes only❗`
 
 ***
 
